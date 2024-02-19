@@ -28,8 +28,6 @@ To start in a docker container using the following command:
 
 To pull down a model in a container:
 
-`docker exec -it ollama ollama pull mistral`
-
 `docker exec -it ollama ollama pull llama2`
 
 On a container run-up the model in the container:
