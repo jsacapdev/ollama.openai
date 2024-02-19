@@ -2,7 +2,7 @@
 
 ## Application Development
 
-Prerequisites were to create a environment using [Anaconda](https://www.anaconda.com/):
+Prerequisites to create a environment using [Anaconda](https://www.anaconda.com/):
 
 `conda create --name ollama.openai python=3.12`
 
